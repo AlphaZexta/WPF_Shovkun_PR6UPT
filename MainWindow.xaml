@@ -19,7 +19,7 @@
         </Grid>
         <Frame x:Name="MainFrame" Grid.Row="1" NavigationUIVisibility="Hidden" ContentRendered="MainFrame_ContentRendered"/>
         <Grid Grid.Row="2" Background="LavenderBlush">
-            <TextBlock x:Name="Helper" Text="Дополинтельная информация" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="12"/>
+            <TextBlock x:Name="Helper" Text="Дополнительная информация" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="12"/>
         </Grid>
     </Grid>
 </Window>
